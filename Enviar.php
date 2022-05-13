@@ -1,6 +1,6 @@
 <?php
 
-$Destino = "irvingarcia565@gmail.com";
+$Destino = "mail@dominio.com";
 $Producto = $_POST['Producto'];
 $Importe = $_POST['Importe'];
 $Talla = $_POST['Talla'];
